@@ -1,0 +1,8 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 数据源本地存储已忽略文件
+/../../../../../../../../../../../../../:\Users\Razer17\Desktop\java全栈图书配套资料\Java EE互联网轻量级框架整合开发\Chapter3\src\com\learn\ssm\chapter3\.idea/dataSources/
+/dataSources.local.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
